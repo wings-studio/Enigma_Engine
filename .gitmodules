@@ -1,0 +1,6 @@
+[submodule "src/Enigma.Graphics"]
+	path = src/Enigma.Graphics
+	url = https://github.com/wings-studio/Enigma.Graphics
+[submodule "src/Enigma.Input"]
+	path = src/Enigma.Input
+	url = https://github.com/wings-studio/Enigma.Input
