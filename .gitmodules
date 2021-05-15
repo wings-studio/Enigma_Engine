@@ -4,3 +4,9 @@
 [submodule "src/Enigma.Input"]
 	path = src/Enigma.Input
 	url = https://github.com/wings-studio/Enigma.Input
+[submodule "src/Enigma.Engine"]
+	path = src/Enigma.Engine
+	url = https://github.com/wings-studio/Enigma.Engine
+[submodule "src/Enigma.Audio"]
+	path = src/Enigma.Audio
+	url = https://github.com/wings-studio/Enigma.Audio
